@@ -1,0 +1,1307 @@
+<REAPER_PROJECT 0.1 "6.03/x64" 1580938803
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 1
+  ENVATTACH 1
+  POOLEDENVATTACH 0
+  MIXERUIFLAGS 11 48
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 600
+  GRID 3455 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1
+  VIDEO_CONFIG 0 0 256
+  PANMODE 3
+  CURSOR 2.90019933291815
+  ZOOM 35.85960413809089 0 0
+  VZOOMEX 5
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 1
+  LOOPGRAN 0 4
+  RECORD_PATH "" ""
+  <RECORD_CFG
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE "D:\Documents\GIT\Database\Finished\Sound04_Short Monster_Hiss.wav"
+  RENDER_FMT 0 2 44100
+  RENDER_1X 0
+  RENDER_RANGE 2 0 0 18 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 16
+  RENDER_DITHER 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 0
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    ZXZhdxgAAA==
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    FREQ 800 1600 1
+    BEATLEN 4
+    SAMPLES "" ""
+    PATTERN 2863311530 2863311529
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 0 2.74234738774372
+  SELECTION2 0 2.74234738774372
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0 0 0 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 0.39355157656505 0 -1 -1 1
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    ACT 0 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  <PROJBAY
+  >
+  <TRACK {4E0ABCAF-D63A-47FF-84CC-CADD52657A0A}
+    NAME Light_thud
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {4E0ABCAF-D63A-47FF-84CC-CADD52657A0A}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 795 221 728 566
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST: ReaVerb (Cockos)" reaverb.dll 0 "" 1919252066<56535472657662726561766572620000> ""
+        YnZlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAXQAAAAEAAAAAAAAA
+        AAAAwSr/dD4AAIA/AAAAAAAAgD8AAIA/AAAAPwAAgD8AAAAARUNIT0dFTgAcAAAA4LyBRW76s0WtOgxDnUa3NiDdDzkGRmdAhxY5P0ZJTFQACAAAANhtYj5+KMU9
+        AGJhZCBjcnVuY2gAAAAAAA==
+      >
+      PRESETNAME "bad crunch"
+      FLOATPOS 0 0 0 0
+      FXID {097C9B45-C0E8-4626-AA42-6C9377B98E55}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS pitch/mdct-shift ""
+        128.000000 4.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+      >
+      FLOATPOS 0 0 0 0
+      FXID {21B864DF-6DD0-42EB-9C60-FDF690959E30}
+      WAK 0 0
+    >
+  >
+  <TRACK {204D693F-48C7-471D-BAF8-2FFB151A4C38}
+    NAME 474002__gammelsmurfen778__bones-breaking-2
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.35372574155057 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 1
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {204D693F-48C7-471D-BAF8-2FFB151A4C38}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 660 240 716 200
+      SHOW 0
+      LASTSEL 1
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST: ReaDelay (Cockos)" readelay.dll 0 "" 1919247468<5653547265646C72656164656C617900> ""
+        bGRlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAATAAAAAEAAAAAABAA
+        AAAAAAAAAAABAAAALAAAAAIAAAAAAAAAePolQO1oREAAAAAAAACAP0S80DfYHkw3KTJDPUktGD8AAAAAnu8nPgAAgD8AAIA/tMh2Pg==
+        AAAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {E3BBF8C5-58DB-4BD0-89B5-50AF57B21EE7}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS guitar/tremolo ""
+        4.000000 -6.000000 0.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+      >
+      FLOATPOS 0 0 0 0
+      FXID {FC5441B2-DECA-4C31-97AB-C908A28EB660}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 5.06000000005588
+      SNAPOFFS 0
+      LENGTH 3.63999999994406
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {BA4B4CBA-82DF-416E-955B-2253AEA5D366}
+      IID 108
+      NAME 474002__gammelsmurfen778__bones-breaking-2.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FEF9CD77-4382-4B90-A8A5-32E4DF457A31}
+      <SOURCE WAVE
+        FILE "D:\Documents\GIT\Database\Sounds\474002__gammelsmurfen778__bones-breaking-2.wav"
+      >
+    >
+    <ITEM
+      POSITION 8.97
+      SNAPOFFS 0
+      LENGTH 0.17770975056698
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {6EB7D02A-6F60-47E9-A8D9-FE2BB2464AFF}
+      IID 112
+      NAME 474002__gammelsmurfen778__bones-breaking-2.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 3.90999999994406
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8FC3B5EF-C71F-4A2B-AA13-96889E6BA00F}
+      <SOURCE WAVE
+        FILE "D:\Documents\GIT\Database\Sounds\474002__gammelsmurfen778__bones-breaking-2.wav"
+      >
+    >
+    <ITEM
+      POSITION 9.14770975056691
+      SNAPOFFS 0
+      LENGTH 3.79229024943299
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {8AB30210-B225-484A-A22D-0907CF8365A8}
+      IID 111
+      NAME 474002__gammelsmurfen778__bones-breaking-2.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.08770975051103
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {15926CAB-B684-4D08-BF0D-87E8DC7DB28D}
+      <SOURCE WAVE
+        FILE "D:\Documents\GIT\Database\Sounds\474002__gammelsmurfen778__bones-breaking-2.wav"
+      >
+    >
+    <ITEM
+      POSITION 12.94
+      SNAPOFFS 0
+      LENGTH 0.38
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {C98CD4AE-2BC5-41BD-B871-A1F8F8D73E89}
+      IID 138
+      NAME 474002__gammelsmurfen778__bones-breaking-2.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 7.87999999994402
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {535722F4-9A2A-4FBE-ABD0-3F8C55E8B23A}
+      <SOURCE WAVE
+        FILE "D:\Documents\GIT\Database\Sounds\474002__gammelsmurfen778__bones-breaking-2.wav"
+      >
+    >
+    <ITEM
+      POSITION 13.32
+      SNAPOFFS 0
+      LENGTH 3.75799721914706
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {9D95DC9D-6FFA-4436-91A1-1321940785E3}
+      IID 140
+      NAME 474002__gammelsmurfen778__bones-breaking-2.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.25999999994402
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3233EEF1-796A-45CF-B1A3-08B206DD176A}
+      <SOURCE WAVE
+        FILE "D:\Documents\GIT\Database\Sounds\474002__gammelsmurfen778__bones-breaking-2.wav"
+      >
+    >
+    <ITEM
+      POSITION 17.4544263921908
+      SNAPOFFS 0
+      LENGTH 2.65176321390519
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {1F2B524E-3F74-4144-B2C0-A9024E4BA643}
+      IID 114
+      NAME 474002__gammelsmurfen778__bones-breaking-2.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 12.39442639213492
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {74729268-9544-4337-9CFD-FF0D56147CE5}
+      <SOURCE WAVE
+        FILE "D:\Documents\GIT\Database\Sounds\474002__gammelsmurfen778__bones-breaking-2.wav"
+      >
+    >
+    <ITEM
+      POSITION 20.58026065089992
+      SNAPOFFS 0
+      LENGTH 2.67909983086172
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {EBF142C8-1C09-461B-BA6F-5EB664CF1BFE}
+      IID 122
+      NAME 474002__gammelsmurfen778__bones-breaking-2.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 15.52026065084404
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9D23E8AC-6486-4748-95D6-212B8429AE79}
+      <SOURCE WAVE
+        FILE "D:\Documents\GIT\Database\Sounds\474002__gammelsmurfen778__bones-breaking-2.wav"
+      >
+    >
+    <ITEM
+      POSITION 23.75466202524037
+      SNAPOFFS 0
+      LENGTH 3.21161446448892
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {CE76B8AB-2A5C-4CF0-8ECA-248BEFC04538}
+      IID 116
+      NAME 474002__gammelsmurfen778__bones-breaking-2.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 18.6946620251845
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {63C77281-1D76-4C8A-94FC-E3FF2832F9B6}
+      <SOURCE WAVE
+        FILE "D:\Documents\GIT\Database\Sounds\474002__gammelsmurfen778__bones-breaking-2.wav"
+      >
+    >
+    <ITEM
+      POSITION 27.44034753453323
+      SNAPOFFS 0
+      LENGTH 2.39824175606693
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {B6766AF5-B3B3-4B04-A482-1BFD47BE83B5}
+      IID 118
+      NAME 474002__gammelsmurfen778__bones-breaking-2.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 22.38034753447735
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E1C71D68-CBAD-4921-AE96-CB158010EE83}
+      <SOURCE WAVE
+        FILE "D:\Documents\GIT\Database\Sounds\474002__gammelsmurfen778__bones-breaking-2.wav"
+      >
+    >
+    <ITEM
+      POSITION 30.25688727130951
+      SNAPOFFS 0
+      LENGTH 4.96311272874638
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {9CBDFC26-23CD-458C-B517-755E5400482A}
+      IID 120
+      NAME 474002__gammelsmurfen778__bones-breaking-2.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 25.19688727125363
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1D85F666-5950-4073-B2E3-B84324567584}
+      <SOURCE WAVE
+        FILE "D:\Documents\GIT\Database\Sounds\474002__gammelsmurfen778__bones-breaking-2.wav"
+      >
+    >
+  >
+  <TRACK {66A287C9-9B85-4D35-BC4C-9B0FE6F05C66}
+    NAME Female_Monster_Growls
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 3.45892642503605 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {66A287C9-9B85-4D35-BC4C-9B0FE6F05C66}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 1060 330 734 521
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST: ReaPitch (Cockos)" reapitch.dll 0 "" 1919250531<56535472657063726561706974636800> ""
+        Y3Blcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAATAAAAAEAAAAAABAA
+        AAAAAP////8BAAAALAAAAAIAAAAAAAAAAACAPwAAAAAAAAAAAACAPxhLFj89Cjc/q6qqPQAAAD8AAAA/AAAAPwAAAD8AAIA/AAAAPw==
+        AAAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {E04E80BE-DE59-4CEA-BC8F-7E677902F1B5}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 5.06000000005588
+      SNAPOFFS 0
+      LENGTH 3.456
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {47540B6E-2695-4D3A-9C73-B7DE9D1AB148}
+      IID 109
+      NAME 174941__abouch__snapping-carrot.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EA90B09B-BE0A-4C0C-B168-D766CAC9F283}
+      <SOURCE WAVE
+        FILE "D:\Documents\GIT\Database\Sounds\174941__abouch__snapping-carrot.wav"
+      >
+    >
+  >
+  <TRACK {D51418D7-F1E7-4598-A12C-B81CFB22CF12}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {D51418D7-F1E7-4598-A12C-B81CFB22CF12}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 2.268625
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {4D913A14-039F-4E8F-A8B4-4AF537F3561A}
+      IID 87
+      NAME scream-male.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {084614A8-2030-4693-AF50-C22AD4D834FE}
+      <SOURCE WAVE
+        FILE "scream-male.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.25561161984064
+      SNAPOFFS 0
+      LENGTH 0.83521154787436
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {476A995E-1482-48F5-8878-03E24FF14E26}
+      IID 102
+      NAME male-wounded-yells_zy8U7B4u.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 4.66678391697826
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CAE549A9-754B-4DA0-AF8E-088BF8A1066C}
+      <SOURCE MP3
+        FILE "D:\Documents\GIT\Database\Sounds\male-wounded-yells_zy8U7B4u.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 6.18
+      SNAPOFFS 0
+      LENGTH 0.81359450764738
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.55037 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {6080B7C9-2688-400A-8954-22DD9AE2E2D9}
+      IID 104
+      NAME male-wounded-yells_zy8U7B4u.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 3.85318940933088
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0C63D75C-1676-40E7-8D77-02C9C812402E}
+      <SOURCE MP3
+        FILE "D:\Documents\GIT\Database\Sounds\male-wounded-yells_zy8U7B4u.mp3" 1
+      >
+    >
+  >
+  <TRACK {BA7EC6B4-A62F-4048-9B93-FDED98CFF01B}
+    NAME scream-male
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.9830251224989 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {BA7EC6B4-A62F-4048-9B93-FDED98CFF01B}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 1.19356052109053
+      SNAPOFFS 0
+      LENGTH 0.49530154347874
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {D088786C-FEEE-4CBC-99FB-A5E5D9C2518A}
+      IID 115
+      NAME 474002__gammelsmurfen778__bones-breaking-2.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 18.19936048170576
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {08112E9E-202E-454D-9162-0E48EA4DDAE2}
+      <SOURCE WAVE
+        FILE "D:\Documents\GIT\Database\Sounds\474002__gammelsmurfen778__bones-breaking-2.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.79
+      SNAPOFFS 0
+      LENGTH 0.27
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {1A459633-9425-407E-9CB1-6B6C09ACF823}
+      IID 110
+      NAME 474002__gammelsmurfen778__bones-breaking-2.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 3.63999999994406
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5BE0B99A-72BB-4561-84C8-95F7DBB83BA6}
+      <SOURCE WAVE
+        FILE "D:\Documents\GIT\Database\Sounds\474002__gammelsmurfen778__bones-breaking-2.wav"
+      >
+    >
+    <ITEM
+      POSITION 6.19496335096425
+      SNAPOFFS 0
+      LENGTH 0.10919324609105
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {3E093AB4-FE3A-4F71-A56E-5FF27638FBF6}
+      IID 103
+      NAME male-wounded-yells_zy8U7B4u.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 3.74399616323983
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3FAF1280-6D57-4FD8-88A9-D45492CD3A39}
+      <SOURCE MP3
+        FILE "D:\Documents\GIT\Database\Sounds\male-wounded-yells_zy8U7B4u.mp3" 1
+      >
+    >
+  >
+  <TRACK {61F45CB0-04F2-4CF2-B747-1107B4D2A4C9}
+    NAME male-wounded-yells_zy8U7B4u
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.77445705324066 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {61F45CB0-04F2-4CF2-B747-1107B4D2A4C9}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 1.35696464004935
+      SNAPOFFS 0
+      LENGTH 0.47407104480392
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {2321C2D0-1076-4A6D-B39D-3AD650B4C135}
+      IID 121
+      NAME 474002__gammelsmurfen778__bones-breaking-2.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 15.04618960604011
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {86C44A6E-9584-49F2-8403-FAF8DBEEAC3D}
+      <SOURCE WAVE
+        FILE "D:\Documents\GIT\Database\Sounds\474002__gammelsmurfen778__bones-breaking-2.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.28402972748566
+      SNAPOFFS 0
+      LENGTH 3.74399616323983
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {59628A0D-4A15-478E-BDAA-A1FA336FA125}
+      IID 101
+      NAME male-wounded-yells_zy8U7B4u.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D17D6134-6CA3-465C-9019-4F75D2299741}
+      <SOURCE MP3
+        FILE "D:\Documents\GIT\Database\Sounds\male-wounded-yells_zy8U7B4u.mp3" 1
+      >
+    >
+  >
+  <TRACK {557A4EBF-0740-4BF9-9349-C994E662F81A}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {557A4EBF-0740-4BF9-9349-C994E662F81A}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 1.20066504800178
+      SNAPOFFS 0
+      LENGTH 0.41829798070934
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {5873F871-6BAE-4F23-A6DF-C25EEBAB112A}
+      IID 119
+      NAME 474002__gammelsmurfen778__bones-breaking-2.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 24.77858929054428
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {253C51FC-7D8D-44C5-AA82-1AD7CEA927D3}
+      <SOURCE WAVE
+        FILE "D:\Documents\GIT\Database\Sounds\474002__gammelsmurfen778__bones-breaking-2.wav"
+      >
+    >
+  >
+  <TRACK {13C06255-FDEA-4D7A-9B92-4C01C7B7AFFA}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.02719672458784 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {13C06255-FDEA-4D7A-9B92-4C01C7B7AFFA}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 1.40669632842813
+      SNAPOFFS 0
+      LENGTH 0.37642917304385
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {3D58908B-0119-4F2B-B0C5-B86A91A16209}
+      IID 113
+      NAME 474002__gammelsmurfen778__bones-breaking-2.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 12.01799721909108
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {43DD34F1-26FF-4F7E-A399-D4FC40D44EC8}
+      <SOURCE WAVE
+        FILE "D:\Documents\GIT\Database\Sounds\474002__gammelsmurfen778__bones-breaking-2.wav"
+      >
+    >
+    <ITEM
+      POSITION 11.97755201474464
+      SNAPOFFS 0
+      LENGTH 0.96244798525526
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {7D123A7A-B531-495E-BE77-95A6824661DE}
+      IID 137
+      NAME 167927__billox30__squelch.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3.0673981736662
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {80690863-08F8-4073-8F1B-BA02F4718C89}
+      <SOURCE FLAC
+        FILE "D:\Documents\GIT\Database\Sounds\167927__billox30__squelch.flac"
+      >
+    >
+  >
+  <TRACK {7C2FEAD2-F1E9-4BE6-807C-60CD53361C21}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {7C2FEAD2-F1E9-4BE6-807C-60CD53361C21}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 1.25039673638056
+      SNAPOFFS 0
+      LENGTH 0.47407104480392
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {A05677E9-F5B6-4460-A36F-623ECD6BD537}
+      IID 117
+      NAME 474002__gammelsmurfen778__bones-breaking-2.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 21.90627648967342
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D2BA923C-F313-49EF-B5FE-4508AFB6CF5D}
+      <SOURCE WAVE
+        FILE "D:\Documents\GIT\Database\Sounds\474002__gammelsmurfen778__bones-breaking-2.wav"
+      >
+    >
+  >
+  <TRACK {C66D495C-BD79-4420-98ED-DC10D2EAF7CC}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {C66D495C-BD79-4420-98ED-DC10D2EAF7CC}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 1.75487132838938
+      SNAPOFFS 0
+      LENGTH 0.37
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {7F91DE7A-8D30-4D6B-9FAA-33D6807E4D84}
+      IID 144
+      NAME 167927__billox30__squelch.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 7.86984615892143
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DA66E475-C28A-4CBA-9B87-8690BB95E428}
+      <SOURCE FLAC
+        FILE "D:\Documents\GIT\Database\Sounds\167927__billox30__squelch.flac"
+      >
+    >
+    <ITEM
+      POSITION 9.04406275802528
+      SNAPOFFS 0
+      LENGTH 0.18471769969258
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {CBB8E5B7-8707-464B-A0B6-BBDF506DB35D}
+      IID 130
+      NAME 167927__billox30__squelch.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 0.13390891694683
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AC98053E-7B78-474D-B6FB-201804D0B435}
+      <SOURCE FLAC
+        FILE "D:\Documents\GIT\Database\Sounds\167927__billox30__squelch.flac"
+      >
+    >
+    <ITEM
+      POSITION 11.53842558183997
+      SNAPOFFS 0
+      LENGTH 0.11104346579199
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {70C2C019-4F3A-4730-8F86-AD91AC28CA2C}
+      IID 134
+      NAME 167927__billox30__squelch.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 2.62827174076153
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {53853883-A66D-4CEC-9090-88E43627B7CE}
+      <SOURCE FLAC
+        FILE "D:\Documents\GIT\Database\Sounds\167927__billox30__squelch.flac"
+      >
+    >
+    <ITEM
+      POSITION 12.94
+      SNAPOFFS 0
+      LENGTH 0.38
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {4B8E76D4-75CE-43F8-B12A-C65E3BE64ECD}
+      IID 139
+      NAME 167927__billox30__squelch.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 4.02984615892146
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2E8FDEF5-A5D9-4DFB-A430-1E6A30D8D73D}
+      <SOURCE FLAC
+        FILE "D:\Documents\GIT\Database\Sounds\167927__billox30__squelch.flac"
+      >
+    >
+    <ITEM
+      POSITION 13.49
+      SNAPOFFS 0
+      LENGTH 0.59
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {DBE2205C-B5D0-4158-8FC6-5A42EA7884DE}
+      IID 142
+      NAME 167927__billox30__squelch.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 4.57984615892146
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E8C0BA57-B4FD-4416-87B3-63EB2BCA246A}
+      <SOURCE FLAC
+        FILE "D:\Documents\GIT\Database\Sounds\167927__billox30__squelch.flac"
+      >
+    >
+    <ITEM
+      POSITION 14.08
+      SNAPOFFS 0
+      LENGTH 2.7
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {44801A8A-7383-4083-81D0-EBE8F6F464B6}
+      IID 143
+      NAME 167927__billox30__squelch.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 5.16984615892146
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {174BEADF-34D7-4770-9F3C-CDE05F5184DC}
+      <SOURCE FLAC
+        FILE "D:\Documents\GIT\Database\Sounds\167927__billox30__squelch.flac"
+      >
+    >
+    <ITEM
+      POSITION 17.01856103392951
+      SNAPOFFS 0
+      LENGTH 0.67
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E5A994BF-802A-4F84-BB5F-76FC94BFF5F2}
+      IID 145
+      NAME 167927__billox30__squelch.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 8.23984615892143
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {59393EB9-C8B7-447E-894A-75AB32CE7CDC}
+      <SOURCE FLAC
+        FILE "D:\Documents\GIT\Database\Sounds\167927__billox30__squelch.flac"
+      >
+    >
+    <ITEM
+      POSITION 18.01999999999987
+      SNAPOFFS 0
+      LENGTH 0.92
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {82D6D657-647C-4BE5-BA56-A3CA395AC596}
+      IID 147
+      NAME 167927__billox30__squelch.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 9.10984615892143
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {44021A4F-922A-4239-886E-D1051AA890D9}
+      <SOURCE FLAC
+        FILE "D:\Documents\GIT\Database\Sounds\167927__billox30__squelch.flac"
+      >
+    >
+    <ITEM
+      POSITION 19.06999999999986
+      SNAPOFFS 0
+      LENGTH 0.63
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {75D4FC6E-6A35-4D47-B179-4766469CBD48}
+      IID 151
+      NAME 167927__billox30__squelch.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 10.15984615892142
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B3694FE5-16D5-473B-B668-EE899D73C704}
+      <SOURCE FLAC
+        FILE "D:\Documents\GIT\Database\Sounds\167927__billox30__squelch.flac"
+      >
+    >
+    <ITEM
+      POSITION 19.90999999999985
+      SNAPOFFS 0
+      LENGTH 2.19614342441195
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {831955D1-F8E1-49DA-9E5F-0F410CF4B7FB}
+      IID 149
+      NAME 167927__billox30__squelch.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 10.99984615892141
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {83338E6D-ACBA-482E-8799-F646D1441D96}
+      <SOURCE FLAC
+        FILE "D:\Documents\GIT\Database\Sounds\167927__billox30__squelch.flac"
+      >
+    >
+  >
+  <TRACK {010A282C-6EFB-492F-9BBC-9137C65846F9}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {010A282C-6EFB-492F-9BBC-9137C65846F9}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 1.75837841113396
+      SNAPOFFS 0
+      LENGTH 0.13
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {86245538-ACF1-46AC-AA9E-0061C0CD93A5}
+      IID 150
+      NAME 167927__billox30__squelch.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 10.02984615892142
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {22CE7A2A-0FD8-42DA-9034-91A92700CA0D}
+      <SOURCE FLAC
+        FILE "D:\Documents\GIT\Database\Sounds\167927__billox30__squelch.flac"
+      >
+    >
+  >
+  <TRACK {1978602F-0D87-434A-88E3-43238432B978}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {1978602F-0D87-434A-88E3-43238432B978}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 1.81781459635141
+      SNAPOFFS 0
+      LENGTH 0.11609089605526
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {02024949-612C-45E6-96B0-947C19E1B975}
+      IID 132
+      NAME 167927__billox30__squelch.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 1.820682898638
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C6219DB4-A18C-4D78-BB09-F41883D98D03}
+      <SOURCE FLAC
+        FILE "D:\Documents\GIT\Database\Sounds\167927__billox30__squelch.flac"
+      >
+    >
+    <ITEM
+      POSITION 1.95649902852546
+      SNAPOFFS 0
+      LENGTH 0.17161262895125
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {00F5D50C-5895-48D4-A02F-E04FB267EA26}
+      IID 136
+      NAME 167927__billox30__squelch.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 2.89578554471495
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BFFA5E6B-B915-403C-A589-2DD152268C57}
+      <SOURCE FLAC
+        FILE "D:\Documents\GIT\Database\Sounds\167927__billox30__squelch.flac"
+      >
+    >
+  >
+  <TRACK {FB3ECFAA-DD7E-4103-B6A5-D7A2A7C127F1}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {FB3ECFAA-DD7E-4103-B6A5-D7A2A7C127F1}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 1.79800253461226
+      SNAPOFFS 0
+      LENGTH 0.2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1.1 0.01 0.120752 1 1 0
+      MUTE 0
+      SEL 0
+      IGUID {1832E151-88BB-46C2-BBEF-34F0C8BCB7EB}
+      IID 146
+      NAME 167927__billox30__squelch.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 8.90984615892143
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {44FEC61B-BD26-4530-81B5-8456F60C35C8}
+      <SOURCE FLAC
+        FILE "D:\Documents\GIT\Database\Sounds\167927__billox30__squelch.flac"
+      >
+    >
+    <ITEM
+      POSITION 1.87725078156886
+      SNAPOFFS 0
+      LENGTH 0.21
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.120752 1 1 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {695BED3C-9DB1-4ED2-9A36-DD3B4A153305}
+      IID 148
+      NAME 167927__billox30__squelch.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 10.78984615892142
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {14508408-8CC8-48D9-972C-25AC00E90348}
+      <SOURCE FLAC
+        FILE "D:\Documents\GIT\Database\Sounds\167927__billox30__squelch.flac"
+      >
+    >
+  >
+>
