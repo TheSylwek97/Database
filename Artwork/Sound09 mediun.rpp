@@ -1,0 +1,503 @@
+<REAPER_PROJECT 0.1 "6.03/x64" 1581183903
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 1
+  ENVATTACH 1
+  POOLEDENVATTACH 0
+  MIXERUIFLAGS 11 48
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 600
+  GRID 3455 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1
+  VIDEO_CONFIG 0 0 256
+  PANMODE 3
+  CURSOR 27.20440424592008
+  ZOOM 12.60841226593335 0 0
+  VZOOMEX 0
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 1
+  LOOPGRAN 0 4
+  RECORD_PATH "" ""
+  <RECORD_CFG
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE "D:\Documents\GIT\Database\Artwork\ada.wav"
+  RENDER_FMT 0 2 44100
+  RENDER_1X 0
+  RENDER_RANGE 2 0 0 18 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 16
+  RENDER_DITHER 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 0
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    ZXZhdxgAAA==
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    FREQ 800 1600 1
+    BEATLEN 4
+    SAMPLES "" ""
+    PATTERN 2863311530 2863311529
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 0 72
+  SELECTION2 0 72
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0 0 0 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 0.39355157656505 0 -1 -1 1
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    ACT 0 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  <PROJBAY
+  >
+  <TRACK {B70FBCD1-3718-4CAE-ADE0-033FFAB51F15}
+    NAME "classical piano loop"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.28556134247332 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {B70FBCD1-3718-4CAE-ADE0-033FFAB51F15}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      BEAT 1
+      SEL 0
+      IGUID {354B867E-ED14-4A54-B311-FBD87530E8BE}
+      IID 166
+      NAME f-major-classical-piano-loop-96-bpm_GJVkLA4d.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.25 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7B7640A9-39A6-4B5C-8C74-78B96111D1FB}
+      <SOURCE MP3
+        FILE "D:\Documents\GIT\Database\Sounds\f-major-classical-piano-loop-96-bpm_GJVkLA4d.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 8.00000000000715
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      BEAT 1
+      SEL 0
+      IGUID {78AD8FD0-3E85-4717-A251-9F02C4125AA7}
+      IID 166
+      NAME f-major-classical-piano-loop-96-bpm_GJVkLA4d.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.25 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3081C8BE-58D3-4D0E-93B7-2DC433FEFD95}
+      <SOURCE MP3
+        FILE "D:\Documents\GIT\Database\Sounds\f-major-classical-piano-loop-96-bpm_GJVkLA4d.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 16.00000000000713
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      BEAT 1
+      SEL 0
+      IGUID {6DAD20A3-3741-4178-93BE-272343C0F1C5}
+      IID 166
+      NAME f-major-classical-piano-loop-96-bpm_GJVkLA4d.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.25 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {84C2E661-1842-4826-8078-52C9CF47DA20}
+      <SOURCE MP3
+        FILE "D:\Documents\GIT\Database\Sounds\f-major-classical-piano-loop-96-bpm_GJVkLA4d.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 24.00000000000713
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      BEAT 1
+      SEL 0
+      IGUID {391AF15B-7D2E-4EE5-88D1-ED4229418BCA}
+      IID 166
+      NAME f-major-classical-piano-loop-96-bpm_GJVkLA4d.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.25 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0A2D3843-7EBE-42DE-8775-BE67CB623523}
+      <SOURCE MP3
+        FILE "D:\Documents\GIT\Database\Sounds\f-major-classical-piano-loop-96-bpm_GJVkLA4d.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 32.0000000000072
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      BEAT 1
+      SEL 0
+      IGUID {E32F067C-3F0C-437A-9335-BD9053A363AB}
+      IID 166
+      NAME f-major-classical-piano-loop-96-bpm_GJVkLA4d.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.25 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BC7B05A4-5B0B-4146-ADBF-7B03F4CE0199}
+      <SOURCE MP3
+        FILE "D:\Documents\GIT\Database\Sounds\f-major-classical-piano-loop-96-bpm_GJVkLA4d.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 40.00000000000719
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      BEAT 1
+      SEL 0
+      IGUID {970FD4E5-78CC-40B0-8095-3A8C0F002FFF}
+      IID 166
+      NAME f-major-classical-piano-loop-96-bpm_GJVkLA4d.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.25 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F7A8841C-8CD1-4BB0-B77D-BC5C64A279C0}
+      <SOURCE MP3
+        FILE "D:\Documents\GIT\Database\Sounds\f-major-classical-piano-loop-96-bpm_GJVkLA4d.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 48.00000000000724
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      BEAT 1
+      SEL 0
+      IGUID {8E1A1823-FFCF-48C7-8023-3FE254AA907B}
+      IID 166
+      NAME f-major-classical-piano-loop-96-bpm_GJVkLA4d.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.25 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {222F60E5-E175-4799-8770-9924ED3BEEA5}
+      <SOURCE MP3
+        FILE "D:\Documents\GIT\Database\Sounds\f-major-classical-piano-loop-96-bpm_GJVkLA4d.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 56.00000000000732
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      BEAT 1
+      SEL 0
+      IGUID {610A0218-13A9-4144-890E-9E331F64F097}
+      IID 166
+      NAME f-major-classical-piano-loop-96-bpm_GJVkLA4d.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.25 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F54708F6-FA50-4E90-B1EB-FBD55BCA05D8}
+      <SOURCE MP3
+        FILE "D:\Documents\GIT\Database\Sounds\f-major-classical-piano-loop-96-bpm_GJVkLA4d.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 64.00000000000705
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      BEAT 1
+      SEL 0
+      IGUID {FD47A668-B151-4AD7-AC6E-B38A27B2EFCC}
+      IID 166
+      NAME f-major-classical-piano-loop-96-bpm_GJVkLA4d.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.25 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FCBDBCAC-DE10-4203-B8F0-173AA1D751F9}
+      <SOURCE MP3
+        FILE "D:\Documents\GIT\Database\Sounds\f-major-classical-piano-loop-96-bpm_GJVkLA4d.mp3" 1
+      >
+    >
+  >
+  <TRACK {06365D7C-E6EB-4BCE-BFE5-AA86AA859F82}
+    NAME f-major-classical-piano-loop-96-bpm_GJVkLA4d
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.42637075113095 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 0
+    TRACKID {06365D7C-E6EB-4BCE-BFE5-AA86AA859F82}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 24 52 734 521
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST: ReaPitch (Cockos)" reapitch.dll 0 "" 1919250531<56535472657063726561706974636800> ""
+        Y3Blcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAATAAAAAEAAAAAABAA
+        AAAAAP////8BAAAALAAAAAIAAAAAAAAAAACAPwAAAAAAAAAAAACAPxSuhz7ByqE+sHJoPgAAAD8AAAA/AAAAPwAAAD8AAIA/AAAAPw==
+        AAAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {C801F7C2-0AFE-480C-8BD3-A8B191A6FA92}
+      WAK 0 0
+    >
+  >
+  <TRACK {329A6983-1D1A-41BE-911E-5F357263B286}
+    NAME b-minor-dx7-elec-piano-horror-75-bpm_GytkT6Ed
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.78304335735222 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {329A6983-1D1A-41BE-911E-5F357263B286}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 72
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      BEAT 1
+      SEL 0
+      IGUID {9B76FAF3-3B39-4FA5-8BF1-BB5907E13F10}
+      IID 105
+      NAME f-major-classical-piano-loop-96-bpm_GJVkLA4d.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.25 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E47FA66E-8ABE-49C2-8ACC-B91D11DAC604}
+      <SOURCE MP3
+        FILE "D:\Documents\GIT\Database\Sounds\f-major-classical-piano-loop-96-bpm_GJVkLA4d.mp3" 1
+      >
+    >
+  >
+  <TRACK {3ACB0B2F-D2E1-48CA-9926-0D7F036B4BAF}
+    NAME e-minor-dramatic-thriller-cello-loop-120-bpm_fJY44A4O
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.42637075113095 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {3ACB0B2F-D2E1-48CA-9926-0D7F036B4BAF}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {A809B15D-18FE-44F6-8C2E-4A74FE114ADB}
+    NAME "Piano note"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.8454390564555 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {A809B15D-18FE-44F6-8C2E-4A74FE114ADB}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 1.69042543059499
+      SNAPOFFS 0
+      LENGTH 63.36000000000023
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {744D4D27-1DC4-41F8-BB4A-DB4E229FD2A8}
+      IID 160
+      NAME grief_G1r75ISO.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {66BC3CE1-7C09-42D7-BAB5-4C1AD3FE4B88}
+      <SOURCE MP3
+        FILE "D:\Documents\GIT\Database\Sounds\music\grief_G1r75ISO.mp3" 1
+      >
+    >
+  >
+  <TRACK {C75B7B82-5272-4490-9856-1CDA3717A0A5}
+    NAME halloween-background-poplar-theme_MkvQWBVd
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1.45790055265788 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 1
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {C75B7B82-5272-4490-9856-1CDA3717A0A5}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+>

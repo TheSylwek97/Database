@@ -1,0 +1,952 @@
+<REAPER_PROJECT 0.1 "6.03/x64" 1581187359
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 1
+  ENVATTACH 1
+  POOLEDENVATTACH 0
+  MIXERUIFLAGS 11 48
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 600
+  GRID 3455 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1
+  VIDEO_CONFIG 0 0 256
+  PANMODE 3
+  CURSOR 166.33147392290249
+  ZOOM 1000000 166330757 0
+  VZOOMEX 0
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 1
+  LOOPGRAN 0 4
+  RECORD_PATH "" ""
+  <RECORD_CFG
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE "D:\Documents\GIT\Database\Finished\Sound02_Long Kids_room.wav"
+  RENDER_FMT 0 2 44100
+  RENDER_1X 0
+  RENDER_RANGE 2 0 0 18 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 16
+  RENDER_DITHER 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 0
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    ZXZhdxgAAA==
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    FREQ 800 1600 1
+    BEATLEN 4
+    SAMPLES "" ""
+    PATTERN 2863311530 2863311529
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 0 166.331474
+  SELECTION2 0 166.331474
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0 0 0 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 0.39355157656505 0 -1 -1 1
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    ACT 0 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  <PROJBAY
+  >
+  <TRACK {F1EA30C2-A732-4FC2-A9B7-E1915D9BFA54}
+    NAME industrial-scifi-ambience-looping_Gkt7qSE
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1.25737358316072 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {F1EA30C2-A732-4FC2-A9B7-E1915D9BFA54}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 25.88975761311448
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {CC5C0267-9764-43DA-9264-5F9EC3530A7E}
+      IID 181
+      NAME industrial-scifi-ambience-looping_Gkt7qSE_.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CAF58D5F-8E16-4EC1-91EE-EF702E1779ED}
+      <SOURCE MP3
+        FILE "D:\Documents\GIT\Database\Sounds\news\industrial-scifi-ambience-looping_Gkt7qSE_.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 25.88975761311448
+      SNAPOFFS 0
+      LENGTH 0.43155691458504
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {0747B6FA-5045-4A5F-BF09-F8804B4C9864}
+      IID 255
+      NAME industrial-scifi-ambience-looping_Gkt7qSE_.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 25.88975761311448
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E810D6DF-B95A-4861-BF89-E3F94240285F}
+      <SOURCE MP3
+        FILE "D:\Documents\GIT\Database\Sounds\news\industrial-scifi-ambience-looping_Gkt7qSE_.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 26.32131452769952
+      SNAPOFFS 0
+      LENGTH 0.49007310639318
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {46E4EBB5-03F7-4BA9-9142-8D2EC8FAD053}
+      IID 257
+      NAME industrial-scifi-ambience-looping_Gkt7qSE_.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 26.32131452769952
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3A8937F0-08A9-4B30-B7DE-3C66419DCE8A}
+      <SOURCE MP3
+        FILE "D:\Documents\GIT\Database\Sounds\news\industrial-scifi-ambience-looping_Gkt7qSE_.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 26.8113876340927
+      SNAPOFFS 0
+      LENGTH 0.54858929820132
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {1DC58D14-00CD-412D-8E32-E2FD73B72C4C}
+      IID 259
+      NAME industrial-scifi-ambience-looping_Gkt7qSE_.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 26.8113876340927
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9F7C67DF-938C-4A14-AEC2-D80A19C706BA}
+      <SOURCE MP3
+        FILE "D:\Documents\GIT\Database\Sounds\news\industrial-scifi-ambience-looping_Gkt7qSE_.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 27.35997693229402
+      SNAPOFFS 0
+      LENGTH 0.55224656018933
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {5F817967-C6E2-4F34-A14C-D7ACBBF2D876}
+      IID 261
+      NAME industrial-scifi-ambience-looping_Gkt7qSE_.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 27.35997693229402
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7749DAB2-EAD3-46DE-B7C9-3EAB96F1B2C5}
+      <SOURCE MP3
+        FILE "D:\Documents\GIT\Database\Sounds\news\industrial-scifi-ambience-looping_Gkt7qSE_.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 27.91222349248336
+      SNAPOFFS 0
+      LENGTH 0.40229881868097
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {EC58506D-F2EA-4A91-9CEA-C7ACB2828530}
+      IID 263
+      NAME industrial-scifi-ambience-looping_Gkt7qSE_.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 27.91222349248336
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {88314F40-C44A-4747-BCAC-0ACB84D8443D}
+      <SOURCE MP3
+        FILE "D:\Documents\GIT\Database\Sounds\news\industrial-scifi-ambience-looping_Gkt7qSE_.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 28.31452231116433
+      SNAPOFFS 0
+      LENGTH 29.10709346026698
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {6903EC4E-8423-4B22-9971-409AE58A11CF}
+      IID 265
+      NAME industrial-scifi-ambience-looping_Gkt7qSE_.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 28.31452231116433
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0FD0AF3E-4008-4188-9208-209E5C0309C0}
+      <SOURCE MP3
+        FILE "D:\Documents\GIT\Database\Sounds\news\industrial-scifi-ambience-looping_Gkt7qSE_.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 57.42161577143131
+      SNAPOFFS 0
+      LENGTH 0.45937292617145
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {60303668-F228-4470-8A2F-4155C1D0E8EB}
+      IID 240
+      NAME industrial-scifi-ambience-looping_Gkt7qSE_.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 57.42161577143131
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FCC18331-E77F-4181-96DF-8CB063299FA6}
+      <SOURCE MP3
+        FILE "D:\Documents\GIT\Database\Sounds\news\industrial-scifi-ambience-looping_Gkt7qSE_.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 57.88098869760276
+      SNAPOFFS 0
+      LENGTH 0.99052287205719
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {34256CAF-94DD-459A-B61E-B03326BD4280}
+      IID 242
+      NAME industrial-scifi-ambience-looping_Gkt7qSE_.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 57.88098869760276
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EE3FC815-03CA-407C-B2D7-1A82AA1135AE}
+      <SOURCE MP3
+        FILE "D:\Documents\GIT\Database\Sounds\news\industrial-scifi-ambience-looping_Gkt7qSE_.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 58.87151156965995
+      SNAPOFFS 0
+      LENGTH 0.4450175222286
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {D4C06975-A1B5-4C19-BEB0-FE83F109AE62}
+      IID 244
+      NAME industrial-scifi-ambience-looping_Gkt7qSE_.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 58.87151156965995
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {10CAC302-C2C3-45E1-981A-5658CE6D5574}
+      <SOURCE MP3
+        FILE "D:\Documents\GIT\Database\Sounds\news\industrial-scifi-ambience-looping_Gkt7qSE_.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 59.31652909188855
+      SNAPOFFS 0
+      LENGTH 0.34452969462858
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {192D10CF-E45F-4714-929B-67C2F802838B}
+      IID 246
+      NAME industrial-scifi-ambience-looping_Gkt7qSE_.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 59.31652909188855
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D573AB2D-BFDF-44FE-8DF1-02D781BD7D0F}
+      <SOURCE MP3
+        FILE "D:\Documents\GIT\Database\Sounds\news\industrial-scifi-ambience-looping_Gkt7qSE_.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 59.66105878651713
+      SNAPOFFS 0
+      LENGTH 0.89003504445719
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {AAFCA1A7-B411-4283-9DCD-F787126C2F65}
+      IID 250
+      NAME industrial-scifi-ambience-looping_Gkt7qSE_.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 59.66105878651713
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A1369E2C-BFA2-4ECA-84D7-6EBB2ACC8B1C}
+      <SOURCE MP3
+        FILE "D:\Documents\GIT\Database\Sounds\news\industrial-scifi-ambience-looping_Gkt7qSE_.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 60.55109383097432
+      SNAPOFFS 0
+      LENGTH 0.20097565520001
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E648950A-DD33-4EB2-80C6-29526420C2D1}
+      IID 252
+      NAME industrial-scifi-ambience-looping_Gkt7qSE_.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 60.55109383097432
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2BF9EAE8-39A9-4698-92EE-F9D998664FE6}
+      <SOURCE MP3
+        FILE "D:\Documents\GIT\Database\Sounds\news\industrial-scifi-ambience-looping_Gkt7qSE_.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 60.75206948617433
+      SNAPOFFS 0
+      LENGTH 105.57940443672815
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {17F9B6F0-CBF0-443C-BE1E-CDB120E378C6}
+      IID 248
+      NAME industrial-scifi-ambience-looping_Gkt7qSE_.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 60.75206948617433
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F98E4CF5-348A-45B5-BE0F-E728A43ED7D2}
+      <SOURCE MP3
+        FILE "D:\Documents\GIT\Database\Sounds\news\industrial-scifi-ambience-looping_Gkt7qSE_.mp3" 1
+      >
+    >
+  >
+  <TRACK {2388D2B3-A11F-49B5-A1B9-751BDFAD3249}
+    NAME 318077__drkvixn91__whimper-gasp-1-male
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 2.80911369734888 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {2388D2B3-A11F-49B5-A1B9-751BDFAD3249}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 23.44356909746383
+      SNAPOFFS 0
+      LENGTH 0.98031746031745
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {F45EB1F6-BC2E-490F-A69C-794B12E578A9}
+      IID 235
+      NAME 318077__drkvixn91__whimper-gasp-1-male.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AB220A10-A0AD-4459-B530-EE6080A52AED}
+      <SOURCE WAVE
+        FILE "D:\Documents\GIT\Database\Sounds\news\318077__drkvixn91__whimper-gasp-1-male.wav"
+      >
+    >
+    <ITEM
+      POSITION 90.10045009327587
+      SNAPOFFS 0
+      LENGTH 0.98031746031744
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {1EBDF72B-E042-4349-A080-C9124144956B}
+      IID 235
+      NAME 318077__drkvixn91__whimper-gasp-1-male.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {89168841-F857-44C3-8AEA-0D7D744EFF5A}
+      <SOURCE WAVE
+        FILE "D:\Documents\GIT\Database\Sounds\news\318077__drkvixn91__whimper-gasp-1-male.wav"
+      >
+    >
+  >
+  <TRACK {7DFBFE37-F664-46B1-89DF-0F5DEE47FD7D}
+    NAME thunder-6_fyZlwpVO
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.13554752943005 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {7DFBFE37-F664-46B1-89DF-0F5DEE47FD7D}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 30.09059378603003
+      SNAPOFFS 0
+      LENGTH 0.44066554849469
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {5AE903BD-E545-4EAE-93A2-A0DF1F2BC5A8}
+      IID 236
+      NAME male-wounded-yells_zy8U7B4u.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E5BAD576-97F6-4B85-851F-CB4B70A42F0D}
+      <SOURCE MP3
+        FILE "D:\Documents\GIT\Database\Sounds\male-wounded-yells_zy8U7B4u.mp3" 1
+      >
+    >
+  >
+  <TRACK {C7F15F33-D6BA-45E2-A184-49B2283EC779}
+    NAME 168512__alienxxx__breathy-aaahhh3
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1.57217646449854 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {C7F15F33-D6BA-45E2-A184-49B2283EC779}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 2.72308904200327
+      SNAPOFFS 0
+      LENGTH 5.07904166666667
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {DDF91D2B-4D3A-4D26-8E10-9F8E0ABC8B43}
+      IID 234
+      NAME 168512__alienxxx__breathy-aaahhh3.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7E108423-338F-4CB4-B235-9B624165117B}
+      <SOURCE WAVE
+        FILE "D:\Documents\GIT\Database\Sounds\news\168512__alienxxx__breathy-aaahhh3.wav"
+      >
+    >
+  >
+  <TRACK {CA849FBB-9479-47EB-BDF2-791688B1CF7A}
+    NAME 318077__drkvixn91__whimper-gasp-1-male
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.35372574155057 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {CA849FBB-9479-47EB-BDF2-791688B1CF7A}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 64.71869596180235
+      SNAPOFFS 0
+      LENGTH 5.07904166666664
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {3EE15C3B-BDDC-4E0C-9317-8BB93AC25AFB}
+      IID 234
+      NAME 168512__alienxxx__breathy-aaahhh3.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {92AC3565-5585-4D62-BAF7-62BFE65954ED}
+      <SOURCE WAVE
+        FILE "D:\Documents\GIT\Database\Sounds\news\168512__alienxxx__breathy-aaahhh3.wav"
+      >
+    >
+  >
+  <TRACK {F9C7C3CE-E04D-41E3-99C3-7D361E5E1CE0}
+    NAME male-wounded-yells_zy8U7B4u
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.29129205255396 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {F9C7C3CE-E04D-41E3-99C3-7D361E5E1CE0}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 110.00592070958307
+      SNAPOFFS 0
+      LENGTH 0.54858929820131
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {41393B60-6945-4827-8A14-285B462F2BCA}
+      IID 260
+      NAME at-the-gym-out-of-breath_G1Gm3hVd.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 1.59754955251863
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {372ABD06-301C-4A77-A59C-8DC595F4C3D7}
+      <SOURCE MP3
+        FILE "D:\Documents\GIT\Database\Sounds\news\at-the-gym-out-of-breath_G1Gm3hVd.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 132.62082294867406
+      SNAPOFFS 0
+      LENGTH 0.43155691458492
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 1
+      IGUID {0E1F1822-D862-4711-8A0E-576003C5E313}
+      IID 256
+      NAME at-the-gym-out-of-breath_G1Gm3hVd.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0.67591953154041
+      PLAYRATE 1.00000000000029 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9F6CFAF1-B93C-4BA6-A8D6-BEF7FB2E52E2}
+      <SOURCE MP3
+        FILE "D:\Documents\GIT\Database\Sounds\news\at-the-gym-out-of-breath_G1Gm3hVd.mp3" 1
+      >
+    >
+  >
+  <TRACK {7403C734-D1F6-4692-B99F-27619A4DF3F6}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.10774555551637 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {7403C734-D1F6-4692-B99F-27619A4DF3F6}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 109.9615026714375
+      SNAPOFFS 0
+      LENGTH 0.89003504445719
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {2AFAD787-E1B2-4BAF-A06E-99AFF71F430E}
+      IID 251
+      NAME male-wounded-yells_zy8U7B4u.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 3.47247241007937
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {38FFD181-6C4D-40AE-8469-27FDD9C64426}
+      <SOURCE MP3
+        FILE "D:\Documents\GIT\Database\Sounds\male-wounded-yells_zy8U7B4u.mp3" 1
+      >
+    >
+  >
+  <TRACK {68A67BF1-3E87-47F0-99EB-C11414A1FDD3}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {68A67BF1-3E87-47F0-99EB-C11414A1FDD3}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 57.38092626712572
+      SNAPOFFS 0
+      LENGTH 0.67591953154039
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {D008FE02-32F5-4984-A286-729282AC6945}
+      IID 254
+      NAME at-the-gym-out-of-breath_G1Gm3hVd.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {95294FB4-824A-4805-B97C-7ABFEF62444F}
+      <SOURCE MP3
+        FILE "D:\Documents\GIT\Database\Sounds\news\at-the-gym-out-of-breath_G1Gm3hVd.mp3" 1
+      >
+    >
+  >
+  <TRACK {FE49729A-877A-48A9-9E9A-BD2050F7F262}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.2394821313049 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {FE49729A-877A-48A9-9E9A-BD2050F7F262}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 38.2911628591909
+      SNAPOFFS 0
+      LENGTH 1.07890760714442
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {D9F0F395-2091-4AAF-BCF2-B06A48143E57}
+      IID 266
+      NAME at-the-gym-out-of-breath_G1Gm3hVd.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 3.10068422959026
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3460835F-6FBE-473D-A500-524E45B378C0}
+      <SOURCE MP3
+        FILE "D:\Documents\GIT\Database\Sounds\news\at-the-gym-out-of-breath_G1Gm3hVd.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 100.17121691146613
+      SNAPOFFS 0
+      LENGTH 0.93851235511613
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {A4B24534-4A85-4B19-AB29-FC1DDEB3E25A}
+      IID 249
+      NAME male-wounded-yells_zy8U7B4u.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 4.56348310973657
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5874EE7C-755E-4210-86C2-E9DE2086047B}
+      <SOURCE MP3
+        FILE "D:\Documents\GIT\Database\Sounds\male-wounded-yells_zy8U7B4u.mp3" 1
+      >
+    >
+  >
+  <TRACK {6E5215FC-7CF8-47E1-842A-C571F7E96117}
+    NAME at-the-gym-out-of-breath_G1Gm3hVd
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 1
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {6E5215FC-7CF8-47E1-842A-C571F7E96117}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 26.32131452769952
+      SNAPOFFS 0
+      LENGTH 0.49007310639318
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {D57D2B39-97B6-4AE5-958D-B448160E4503}
+      IID 258
+      NAME at-the-gym-out-of-breath_G1Gm3hVd.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 1.10747644612545
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6B54942B-3DD6-40B5-A1C1-E44FFDB19816}
+      <SOURCE MP3
+        FILE "D:\Documents\GIT\Database\Sounds\news\at-the-gym-out-of-breath_G1Gm3hVd.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 27.35997693229402
+      SNAPOFFS 0
+      LENGTH 0.55224656018933
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {9EBBE78F-7B2F-4F0B-804D-098449D58FB2}
+      IID 262
+      NAME at-the-gym-out-of-breath_G1Gm3hVd.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 2.14613885071996
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7E268ABC-BA2A-45BB-982F-444B7756D63D}
+      <SOURCE MP3
+        FILE "D:\Documents\GIT\Database\Sounds\news\at-the-gym-out-of-breath_G1Gm3hVd.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 27.91222349248336
+      SNAPOFFS 0
+      LENGTH 0.40229881868097
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {87F65DD2-C89C-45D1-8557-B7510C58909F}
+      IID 264
+      NAME at-the-gym-out-of-breath_G1Gm3hVd.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 2.69838541090929
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5744AFC5-8C80-4433-A958-0C80BB8EC2DE}
+      <SOURCE MP3
+        FILE "D:\Documents\GIT\Database\Sounds\news\at-the-gym-out-of-breath_G1Gm3hVd.mp3" 1
+      >
+    >
+  >
+>

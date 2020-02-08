@@ -1,0 +1,645 @@
+<REAPER_PROJECT 0.1 "6.03/x64" 1581186138
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 1
+  ENVATTACH 1
+  POOLEDENVATTACH 0
+  MIXERUIFLAGS 11 48
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 600
+  GRID 3455 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1
+  VIDEO_CONFIG 0 0 256
+  PANMODE 3
+  CURSOR 118.61071399898418
+  ZOOM 3.21218874041398 0 0
+  VZOOMEX 0
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 1
+  LOOPGRAN 0 4
+  RECORD_PATH "" ""
+  <RECORD_CFG
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE "D:\Documents\GIT\Database\Finished\Sound02_Long Kids_room.wav"
+  RENDER_FMT 0 2 44100
+  RENDER_1X 0
+  RENDER_RANGE 2 0 0 18 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 16
+  RENDER_DITHER 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 0
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    ZXZhdxgAAA==
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    FREQ 800 1600 1
+    BEATLEN 4
+    SAMPLES "" ""
+    PATTERN 2863311530 2863311529
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 79.999981 0
+  SELECTION2 79.999981 0
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0 0 0 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 0.39355157656505 0 -1 -1 1
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    ACT 0 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  <PROJBAY
+  >
+  <TRACK {F1EA30C2-A732-4FC2-A9B7-E1915D9BFA54}
+    NAME industrial-scifi-ambience-looping_Gkt7qSE
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1.25737358316072 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {F1EA30C2-A732-4FC2-A9B7-E1915D9BFA54}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0.01435540395323
+      SNAPOFFS 0
+      LENGTH 166.33147392290249
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {CC5C0267-9764-43DA-9264-5F9EC3530A7E}
+      IID 181
+      NAME industrial-scifi-ambience-looping_Gkt7qSE_.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CAF58D5F-8E16-4EC1-91EE-EF702E1779ED}
+      <SOURCE MP3
+        FILE "D:\Documents\GIT\Database\Sounds\news\industrial-scifi-ambience-looping_Gkt7qSE_.mp3" 1
+      >
+    >
+  >
+  <TRACK {DB8D3825-00B0-456D-8929-E9E73A369889}
+    NAME e-minor-haunting-horror-hip-hop-bells-pattern-95-bpm_fy9T4ANd
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {DB8D3825-00B0-456D-8929-E9E73A369889}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 7.99999811035518
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      BEAT 1
+      SEL 0
+      IGUID {D65FBA75-3CEB-4FB7-BC32-8FAEFFF2A7D6}
+      IID 187
+      NAME e-minor-haunting-horror-hip-hop-bells-pattern-95-bpm_fy9T4ANd.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.26315789473686 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C1F8F17E-A866-4C68-8E75-2D7434485E33}
+      <SOURCE MP3
+        FILE "D:\Documents\GIT\Database\Sounds\Loops\e-minor-haunting-horror-hip-hop-bells-pattern-95-bpm_fy9T4ANd.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 7.99999811034648
+      SNAPOFFS 0
+      LENGTH 7.9999981103552
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      BEAT 1
+      SEL 0
+      IGUID {341355EB-EFA4-4051-AC92-6593DE2C80FC}
+      IID 187
+      NAME e-minor-haunting-horror-hip-hop-bells-pattern-95-bpm_fy9T4ANd.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.26315789473685 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {349D5B98-AE82-4CFD-AA94-A6E4AE83564E}
+      <SOURCE MP3
+        FILE "D:\Documents\GIT\Database\Sounds\Loops\e-minor-haunting-horror-hip-hop-bells-pattern-95-bpm_fy9T4ANd.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 15.99999622069297
+      SNAPOFFS 0
+      LENGTH 7.99999811035518
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      BEAT 1
+      SEL 0
+      IGUID {8AF61CE8-4A5A-4B11-9E67-864ECECB3E50}
+      IID 187
+      NAME e-minor-haunting-horror-hip-hop-bells-pattern-95-bpm_fy9T4ANd.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.26315789473686 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CB149A56-0FE3-4EC6-9D30-CD0DC49603CD}
+      <SOURCE MP3
+        FILE "D:\Documents\GIT\Database\Sounds\Loops\e-minor-haunting-horror-hip-hop-bells-pattern-95-bpm_fy9T4ANd.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 23.9999943310395
+      SNAPOFFS 0
+      LENGTH 7.99999811035513
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      BEAT 1
+      SEL 0
+      IGUID {AE91BE85-D21E-40B3-8F20-D0E934A47903}
+      IID 187
+      NAME e-minor-haunting-horror-hip-hop-bells-pattern-95-bpm_fy9T4ANd.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.26315789473687 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B3ECE981-EC74-4EF7-AEA2-7E143BA246DA}
+      <SOURCE MP3
+        FILE "D:\Documents\GIT\Database\Sounds\Loops\e-minor-haunting-horror-hip-hop-bells-pattern-95-bpm_fy9T4ANd.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 31.99999244138602
+      SNAPOFFS 0
+      LENGTH 7.99999811035522
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      BEAT 1
+      SEL 0
+      IGUID {970A2D31-1628-4910-84C8-B381C3043B34}
+      IID 187
+      NAME e-minor-haunting-horror-hip-hop-bells-pattern-95-bpm_fy9T4ANd.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.26315789473685 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6ECF750F-E97D-4E98-BE13-66FD2DC05BCA}
+      <SOURCE MP3
+        FILE "D:\Documents\GIT\Database\Sounds\Loops\e-minor-haunting-horror-hip-hop-bells-pattern-95-bpm_fy9T4ANd.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 39.99999055173252
+      SNAPOFFS 0
+      LENGTH 7.99999811035517
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      BEAT 1
+      SEL 0
+      IGUID {15F49D99-DCB7-4E95-B63D-E320EDFF922A}
+      IID 187
+      NAME e-minor-haunting-horror-hip-hop-bells-pattern-95-bpm_fy9T4ANd.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.26315789473686 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {404E2CDF-4D01-494A-BAA3-0EC1063FA446}
+      <SOURCE MP3
+        FILE "D:\Documents\GIT\Database\Sounds\Loops\e-minor-haunting-horror-hip-hop-bells-pattern-95-bpm_fy9T4ANd.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 47.99998866207899
+      SNAPOFFS 0
+      LENGTH 7.99999811035519
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      BEAT 1
+      SEL 0
+      IGUID {026763DC-06D6-41DA-BDFE-5759B4783AD4}
+      IID 187
+      NAME e-minor-haunting-horror-hip-hop-bells-pattern-95-bpm_fy9T4ANd.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.26315789473686 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FB3A12D2-101E-4458-9570-B8974815C277}
+      <SOURCE MP3
+        FILE "D:\Documents\GIT\Database\Sounds\Loops\e-minor-haunting-horror-hip-hop-bells-pattern-95-bpm_fy9T4ANd.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 55.99998677242551
+      SNAPOFFS 0
+      LENGTH 7.99999811035518
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      BEAT 1
+      SEL 0
+      IGUID {FAF7A8B3-3505-4AFD-A5CE-1A6E79F95A78}
+      IID 187
+      NAME e-minor-haunting-horror-hip-hop-bells-pattern-95-bpm_fy9T4ANd.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.26315789473686 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7EEB7E42-B41B-414E-9D61-CA4770676B3C}
+      <SOURCE MP3
+        FILE "D:\Documents\GIT\Database\Sounds\Loops\e-minor-haunting-horror-hip-hop-bells-pattern-95-bpm_fy9T4ANd.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 63.99998488288833
+      SNAPOFFS 0
+      LENGTH 7.99999811035519
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      BEAT 1
+      SEL 0
+      IGUID {9349D3A9-C805-4E92-A277-41631669D6DA}
+      IID 187
+      NAME e-minor-haunting-horror-hip-hop-bells-pattern-95-bpm_fy9T4ANd.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.26315789473686 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A8355D80-9923-4CD1-99B0-81DFEFB96BF3}
+      <SOURCE MP3
+        FILE "D:\Documents\GIT\Database\Sounds\Loops\e-minor-haunting-horror-hip-hop-bells-pattern-95-bpm_fy9T4ANd.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 71.99998299323484
+      SNAPOFFS 0
+      LENGTH 7.99999811035519
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      BEAT 1
+      SEL 0
+      IGUID {8E30360E-3B38-4892-BE17-8B6C73C9DF82}
+      IID 187
+      NAME e-minor-haunting-horror-hip-hop-bells-pattern-95-bpm_fy9T4ANd.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.26315789473685 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7DE99E2E-E8C0-4D70-A10F-A0C86770185D}
+      <SOURCE MP3
+        FILE "D:\Documents\GIT\Database\Sounds\Loops\e-minor-haunting-horror-hip-hop-bells-pattern-95-bpm_fy9T4ANd.mp3" 1
+      >
+    >
+  >
+  <TRACK {B2192127-770B-49B7-9D48-5AFD487D8AF4}
+    NAME small-girl-short-screams-in-hall_f1QxwHEO
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {B2192127-770B-49B7-9D48-5AFD487D8AF4}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 7.70288698916663
+      SNAPOFFS 0
+      LENGTH 3.02649666843264
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {FD18A562-D617-4798-8984-ACD3CBAB4FE9}
+      IID 215
+      NAME small-girl-short-screams-in-hall_f1QxwHEO.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {83C29F7D-D12E-4FE0-A73F-B795D25C51B2}
+      <SOURCE MP3
+        FILE "D:\Documents\GIT\Database\Sounds\small-girl-short-screams-in-hall_f1QxwHEO.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 69.77252707578465
+      SNAPOFFS 0
+      LENGTH 1.17714312331434
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {F9890599-B091-41C7-860A-1650B387D0DC}
+      IID 221
+      NAME small-girl-short-screams-in-hall_f1QxwHEO.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 10.60669294726796
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4E1AAC8C-E2CF-43D9-9A15-707E1E454979}
+      <SOURCE MP3
+        FILE "D:\Documents\GIT\Database\Sounds\small-girl-short-screams-in-hall_f1QxwHEO.mp3" 1
+      >
+    >
+  >
+  <TRACK {DF34CCB1-FBE9-47A4-8F15-97CA2C2958D0}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {DF34CCB1-FBE9-47A4-8F15-97CA2C2958D0}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 33.63946606884019
+      SNAPOFFS 0
+      LENGTH 1.94758030550408
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {D6D643D3-BD60-4001-A38C-30792D5B89F9}
+      IID 223
+      NAME small-girl-short-screams-in-hall_f1QxwHEO.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 12.81742515446805
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {457703CB-858A-429E-AE5E-DB03498F4ADD}
+      <SOURCE MP3
+        FILE "D:\Documents\GIT\Database\Sounds\small-girl-short-screams-in-hall_f1QxwHEO.mp3" 1
+      >
+    >
+  >
+  <TRACK {30B41069-9DD1-4E8F-A9A9-3C23CE673189}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {30B41069-9DD1-4E8F-A9A9-3C23CE673189}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 52.57223089150402
+      SNAPOFFS 0
+      LENGTH 2.04457518474987
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {6DACBB8C-CEDA-4B3F-A7C5-B90AD8052416}
+      IID 225
+      NAME small-girl-short-screams-in-hall_f1QxwHEO.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 15.59080869489105
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C3BDCCFF-31DC-4407-8B1E-4DF0B0EA46A9}
+      <SOURCE MP3
+        FILE "D:\Documents\GIT\Database\Sounds\small-girl-short-screams-in-hall_f1QxwHEO.mp3" 1
+      >
+    >
+  >
+  <TRACK {EDDC76F1-F3E6-44F9-8766-9C3DB825D17A}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {EDDC76F1-F3E6-44F9-8766-9C3DB825D17A}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 16.18722628158204
+      SNAPOFFS 0
+      LENGTH 2.7659975806178
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {78171C1D-89DD-461C-9E58-ED57E87ECB2A}
+      IID 219
+      NAME small-girl-short-screams-in-hall_f1QxwHEO.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 7.53463650349641
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B9AA310B-47B9-4373-A66E-2136850E124F}
+      <SOURCE MP3
+        FILE "D:\Documents\GIT\Database\Sounds\small-girl-short-screams-in-hall_f1QxwHEO.mp3" 1
+      >
+    >
+  >
+  <TRACK {428DA84C-41D2-4ED6-9DA5-46C4BB48366B}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {428DA84C-41D2-4ED6-9DA5-46C4BB48366B}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 75.9125094584537
+      SNAPOFFS 0
+      LENGTH 2.55068723398826
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {AFEB8D3A-21EF-42EC-9609-D65020432350}
+      IID 217
+      NAME small-girl-short-screams-in-hall_f1QxwHEO.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 3.77238449718551
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9008833C-03C4-4AFB-8254-9163C24DD0FA}
+      <SOURCE MP3
+        FILE "D:\Documents\GIT\Database\Sounds\small-girl-short-screams-in-hall_f1QxwHEO.mp3" 1
+      >
+    >
+  >
+>
