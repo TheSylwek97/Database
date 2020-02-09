@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.03/x64" 1581271777
+<REAPER_PROJECT 0.1 "6.03/x64" 1581273075
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -14,8 +14,8 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 173.71332916386635
-  ZOOM 3.21218874041399 0 0
+  CURSOR 174.51656105154731
+  ZOOM 2.28210813502958 0 0
   VZOOMEX 6
   USE_REC_CFG 0
   RECMODE 1
@@ -27,7 +27,7 @@
   >
   <APPLYFX_CFG
   >
-  RENDER_FILE "D:\Documents\GIT\Database\Artwork\long .wav"
+  RENDER_FILE "D:\Documents\GIT\Database\Finished\Sound04_long Guilty.wav"
   RENDER_FMT 0 2 44100
   RENDER_1X 0
   RENDER_RANGE 2 0 0 18 1000
@@ -143,7 +143,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0
     VU 2
     TRACKHEIGHT 0 1 0
@@ -205,7 +205,7 @@
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
-    VOLPAN 0.07764838953716 0 -1 -1 1
+    VOLPAN 0.35597541245898 0 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
@@ -932,6 +932,28 @@
       >
     >
     <ITEM
+      POSITION 164.25300433952361
+      SNAPOFFS 0
+      LENGTH 1.56839002267574
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {6AFE1689-A0A8-4E30-9214-DDA85A25601F}
+      IID 38
+      NAME help_me.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6CA41B21-3882-4D71-BBCE-4ADA999DE390}
+      <SOURCE MP3
+        FILE "D:\Documents\GIT\Database\Sounds\recorded\help_me.mp3" 1
+      >
+    >
+    <ITEM
       POSITION 166.00028265692629
       SNAPOFFS 0
       LENGTH 1.33328798185917
@@ -973,6 +995,28 @@
       GUID {9EE03E5A-EFF1-4A03-9A4B-91FD532A3DF5}
       <SOURCE MP3
         FILE "D:\Documents\GIT\Database\Sounds\recorded\it_was_your_fault.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 167.64990584074985
+      SNAPOFFS 0
+      LENGTH 1.33328798185934
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {A29373F2-5148-4458-9E28-F935E48C04F3}
+      IID 48
+      NAME murderer.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7286CD98-34CB-44F5-A708-C7167C27C907}
+      <SOURCE MP3
+        FILE "D:\Documents\GIT\Database\Sounds\recorded\murderer.mp3" 1
       >
     >
     <ITEM
@@ -1020,13 +1064,35 @@
       >
     >
     <ITEM
+      POSITION 174.50825195177458
+      SNAPOFFS 0
+      LENGTH 1.33328798185934
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1.1 0.01 0.006553 1 1 0
+      MUTE 0
+      SEL 0
+      IGUID {87B84872-C73A-4E21-9187-D7DEE0B3226C}
+      IID 52
+      NAME why.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EF22FBF8-49B1-4E18-8041-E890A718E41A}
+      <SOURCE MP3
+        FILE "D:\Documents\GIT\Database\Sounds\recorded\why.mp3" 1
+      >
+    >
+    <ITEM
       POSITION 175.83498645504332
       SNAPOFFS 0
       LENGTH 2.32594104308396
       LOOP 1
       ALLTAKES 0
-      FADEIN 1.1 0.01 0.013894 1 1 0
-      FADEOUT 1 0.01 0 1 0 0
+      FADEIN 1.1 0.01 0.006553 1 1 0
+      FADEOUT 1.1 0.01 1.298477 1 1 0
       MUTE 0
       SEL 0
       IGUID {497D03FE-580C-4175-A5EC-EDB78B85E84F}
@@ -1039,6 +1105,28 @@
       GUID {682CFB64-3BD4-4643-8664-05731C6C114C}
       <SOURCE MP3
         FILE "D:\Documents\GIT\Database\Sounds\recorded\it_was_your_fault.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 176.86245050362777
+      SNAPOFFS 0
+      LENGTH 1.91738523873164
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 1.298477 1 1 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 1
+      IGUID {A1D646D3-FBF9-4483-8F7B-CCF929044380}
+      IID 56
+      NAME wait.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 1.9759027431278
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {097D0020-488D-48F0-AB3C-D7A2018096D0}
+      <SOURCE MP3
+        FILE "D:\Documents\GIT\Database\Sounds\recorded\wait.mp3" 1
       >
     >
     <ITEM
@@ -1599,25 +1687,25 @@
       >
     >
     <ITEM
-      POSITION 165.92097052952215
+      POSITION 166.4551919659134
       SNAPOFFS 0
-      LENGTH 2.32594104308382
+      LENGTH 1.56839002267574
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
       SEL 0
-      IGUID {06F2E301-356D-470C-AA15-A8AE5BD5B3E1}
-      IID 47
-      NAME it_was_your_fault.mp3
+      IGUID {C8E9A349-D421-4782-8ED0-5DDB22425D64}
+      IID 38
+      NAME help_me.mp3
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {5ADD1317-9BE1-452F-9673-0746F2595FA9}
+      GUID {0AFE4712-6C93-497F-9D13-50095F4824EF}
       <SOURCE MP3
-        FILE "D:\Documents\GIT\Database\Sounds\recorded\it_was_your_fault.mp3" 1
+        FILE "D:\Documents\GIT\Database\Sounds\recorded\help_me.mp3" 1
       >
     >
     <ITEM
@@ -1665,25 +1753,25 @@
       >
     >
     <ITEM
-      POSITION 172.42456497666404
+      POSITION 173.29958085795033
       SNAPOFFS 0
-      LENGTH 2.32594104308396
+      LENGTH 0.7607029478458
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
       SEL 0
-      IGUID {6F341495-CE4C-4DAD-A7A8-C4C14CE5AFDD}
-      IID 47
-      NAME it_was_your_fault.mp3
+      IGUID {C7F67CB8-A258-4AB1-A021-773B2726A3FB}
+      IID 7
+      NAME 386541__glennm__whisper-fool.wav
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {B45E50DF-E7F9-4C5A-8897-AC3FB3792FD6}
-      <SOURCE MP3
-        FILE "D:\Documents\GIT\Database\Sounds\recorded\it_was_your_fault.mp3" 1
+      GUID {A9121A27-350D-4DC1-ADB9-9707710C5706}
+      <SOURCE WAVE
+        FILE "D:\Documents\GIT\Database\Sounds\386541__glennm__whisper-fool.wav"
       >
     >
     <ITEM
@@ -1709,25 +1797,47 @@
       >
     >
     <ITEM
-      POSITION 178.84884729640174
+      POSITION 178.3536045672372
       SNAPOFFS 0
-      LENGTH 2.32594104308373
+      LENGTH 1.33328798185934
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1.1 0.01 0.233051 1 1 0
+      FADEOUT 1 0.01 0 1 0 0
       MUTE 0
       SEL 0
-      IGUID {70A0D5DC-9E0F-4DDD-A746-3EDECF106F92}
-      IID 47
-      NAME it_was_your_fault.mp3
+      IGUID {5891309E-9181-4762-A67B-83F7727A7472}
+      IID 48
+      NAME murderer.mp3
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {CDB4FCC5-7450-41B2-B7AC-104F8F4D2DD9}
+      GUID {78CC7E49-DBB7-44D9-BD7E-D831AA3996F0}
       <SOURCE MP3
-        FILE "D:\Documents\GIT\Database\Sounds\recorded\it_was_your_fault.mp3" 1
+        FILE "D:\Documents\GIT\Database\Sounds\recorded\murderer.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 179.792948748246
+      SNAPOFFS 0
+      LENGTH 1.33328798185937
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1.1 0.01 0.1845 1 1 0
+      MUTE 0
+      SEL 0
+      IGUID {73179A7A-CD36-48FA-9411-DA56ECE8C548}
+      IID 52
+      NAME why.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C16163FD-2920-4F5C-AC4F-821D9BA2438A}
+      <SOURCE MP3
+        FILE "D:\Documents\GIT\Database\Sounds\recorded\why.mp3" 1
       >
     >
     <ITEM
@@ -1736,7 +1846,7 @@
       LENGTH 2.32594104308404
       LOOP 1
       ALLTAKES 0
-      FADEIN 1.1 0.01 0.233051 1 1 0
+      FADEIN 1.1 0.01 0.1845 1 1 0
       FADEOUT 1.1 0.01 0.278188 1 1 0
       MUTE 0
       SEL 0
@@ -1824,7 +1934,7 @@
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
-    VOLPAN 0.02026217393625 0 -1 -1 1
+    VOLPAN 0.02355581168452 0 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
@@ -1832,7 +1942,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 0
+    SEL 1
     REC 0 0 1 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0
@@ -1857,28 +1967,6 @@
       FLOATPOS 0 0 0 0
       FXID {8487659A-61E5-4587-9CB3-1DF82BDB1741}
       WAK 0 0
-    >
-    <ITEM
-      POSITION 6.59265917932048
-      SNAPOFFS 0
-      LENGTH 2.54267573696144
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {3288906D-D786-4DA7-8FAD-212C9AAD1F92}
-      IID 25
-      NAME liar-male-whisper.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {EF13952B-E417-4E3C-8C4D-050CCC099CC3}
-      <SOURCE WAVE
-        FILE "D:\Documents\GIT\Database\Sounds\liar-male-whisper.wav"
-      >
     >
     <ITEM
       POSITION 150.84068045298716
@@ -1915,6 +2003,53 @@
         FLOATPOS 0 0 0 0
         FXID {6A6EB87E-23D5-4C19-92AE-AA27AE096AE1}
         WAK 0 0
+      >
+    >
+  >
+  <TRACK {5FAC1FD6-6AD5-46EF-9248-696AEA994A25}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.02719672458784 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {5FAC1FD6-6AD5-46EF-9248-696AEA994A25}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 6.59265917932048
+      SNAPOFFS 0
+      LENGTH 2.54267573696144
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {3288906D-D786-4DA7-8FAD-212C9AAD1F92}
+      IID 25
+      NAME liar-male-whisper.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EF13952B-E417-4E3C-8C4D-050CCC099CC3}
+      <SOURCE WAVE
+        FILE "D:\Documents\GIT\Database\Sounds\liar-male-whisper.wav"
       >
     >
   >
